@@ -3,6 +3,6 @@ Instructor: Karan
 
 Students:
 
-1. XYZ
-2. Nayan
+1. Shashidhar 
+2. Chalapathy
 3. My name is "Student3"
